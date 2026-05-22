@@ -494,6 +494,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📜 | [Uncody](https://uncody.com/?utm_source=tonybfdeal) | AI Landing page builder that helps you get leads, newsletter signups | Get 50% off on yearly plans - **BLACKFRIDAY50** |
 | 📜 | [Flly](https://flyy.page/?utm_source=tonybfdeal) | AI Vibe Website builder that offers unlimited edits. | Get 40% off on all plans - **LAUNCH40** |
 | 🧽 | [RemoveMark](https://removemark.io/?utm=tonybf) | Remove text watermarks and handwriting from images, and remove watermarks from videos with AI. |Get 40% off on all plans - **REMOVEMARK40** |
+| 🎬 | [Gemini Omni](https://omni-gemini.ai/) | AI video generator with native synced audio. Turn text, images, or chat into 4K cinematic clips with locked character continuity and conversational in-chat editing. | 50% OFF annual plans with code **welcome-omni-gemini** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
